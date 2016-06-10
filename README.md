@@ -1,2 +1,2 @@
 # ES50
-S
+This repository has all my course material from ES50.
